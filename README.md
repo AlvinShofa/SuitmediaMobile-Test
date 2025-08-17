@@ -1,16 +1,22 @@
-# suitmediamob_test
+# 📱 Suitmedia Mobile Test - Flutter  
 
-A new Flutter project.
+## 📌 Deskripsi Proyek  
+Project ini merupakan **tugas individu** sebagai bagian dari **test magang berdampak di Suitmedia**.  
+Aplikasi ini dibangun menggunakan **Flutter** dan mengimplementasikan **state management (Provider)**, model data, serta navigasi multi-screen.  
 
-## Getting Started
+## 📝 Fitur Utama  
+- **First Screen** → Tampilan awal aplikasi.  
+- **Second Screen** → Menampilkan input/navigasi berikutnya.  
+- **Third Screen** → Menampilkan data user (dikelola dengan Provider).  
+- **Model & Provider** → Mengelola data user dalam aplikasi.  
 
-This project is a starting point for a Flutter application.
+## ⚙️ Teknologi yang Digunakan  
+- **Framework**: Flutter  
+- **Bahasa Pemrograman**: Dart  
+- **State Management**: Provider  
+- **Tools**: Android Studio / VS Code, Git  
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎯 Tujuan  
+1. Menguji kemampuan membangun aplikasi Flutter dengan arsitektur sederhana.  
+2. Mengimplementasikan navigasi antar halaman.  
+3. Menggunakan state management (Provider) untuk mengelola data user.  
