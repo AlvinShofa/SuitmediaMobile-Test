@@ -13,7 +13,7 @@ Aplikasi ini dibuat menggunakan **Flutter** dengan state management **Provider**
 
 2. **Second Screen**  
    - Menampilkan sapaan kepada nama user dari halaman pertama.  
-   - Menampilkan **nama user yang dipilih** dari halaman ketiga.  
+   - Menampilkan **Selected User Name** dari halaman ketiga.  
      - Jika belum memilih user → tampil pesan “Pilih user terlebih dahulu”.  
      - Jika sudah memilih → tampil nama user terpilih.  
    - Tombol navigasi menuju halaman ketiga untuk memilih user.  
